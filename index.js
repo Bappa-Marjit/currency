@@ -20,5 +20,3 @@ select.innerHTML = `<option>${key[0]}</option>;
 
 // console.log(args);
 
-const vari = require("./test");
-console.log(vari);
