@@ -14,9 +14,3 @@ select.innerHTML = `<option>${key[0]}</option>;
 })
     })
 }
-
-
-// let args = process.argv;
-
-// console.log(args);
-
